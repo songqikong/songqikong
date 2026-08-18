@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Songqi</h1>
-<h3 align="center">Perception Algorithm Engineer · Shenzhen 🇨🇳</h3>
+<h3 align="center">Perception Algorithm Engineer · Shenzhen</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=songqikong&style=flat-square&color=blue" alt="profile views"/>
